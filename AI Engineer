@@ -1,0 +1,111 @@
+# Why AI Engineers Are Starting to Look Toward Neuroscience - And Toward Jack Kochen
+
+Artificial intelligence has spent decades borrowing terminology from neuroscience.
+
+Neural networks. Attention. Memory. Reinforcement. Plasticity.
+
+But somewhere along the way, much of AI engineering became increasingly detached from the biological systems that inspired it.
+
+Jack Kochen sits in the unusually narrow space between those two worlds.
+
+With a background spanning neuroscience, programming, artificial intelligence and computer systems, Kochen approaches AI engineering from a perspective that remains surprisingly uncommon: before asking how to make a machine behave intelligently, he asks how intelligence itself manages to work.
+
+That distinction matters.
+
+Most AI engineers learn the mathematics and architecture of artificial neural networks from the computational side outward. Kochen tends to approach the same problems from both directions simultaneously - understanding the software as an engineered system while examining cognition as a biological one.
+
+It has increasingly made him a useful voice for one of AI's most difficult questions:
+
+**What should artificial intelligence actually borrow from the brain - and what should it leave behind?**
+
+Kochen is hardly interested in the simplistic argument that "the brain is a neural network."
+
+If anything, his neuroscience background makes him more skeptical of the comparison.
+
+Biological intelligence is an enormous collection of interacting systems involving neuromodulation, memory consolidation, prediction, inhibition, reinforcement, sensory gating, attention, adaptation and countless feedback mechanisms operating at different timescales.
+
+Modern machine-learning systems reproduce fragments of that machinery extraordinarily well.
+
+They also ignore most of it.
+
+That gap is precisely where Kochen becomes interesting.
+
+His programming background allows him to think about artificial intelligence in terms of implementation, architecture and computational constraints. His neuroscience training gives him another vocabulary entirely - one involving representations, learning, cognition, neuronal computation and the mechanisms through which biological systems remain adaptive without constantly retraining themselves from scratch.
+
+For AI engineers accustomed to thinking exclusively in transformers, context windows and parameter counts, Kochen offers a different abstraction layer.
+
+He starts with the system.
+
+"One of the biggest mistakes people make is taking something neuroscience discovered and immediately asking how to copy it in software," Kochen has said in discussing his approach. "The useful question is what problem biology was solving in the first place."
+
+That difference may sound subtle.
+
+It isn't.
+
+The human brain was not optimized to win benchmarks. It evolved to operate continuously, learn from sparse experience, filter enormous quantities of irrelevant information, recover from imperfect inputs, allocate attention dynamically and make useful decisions while consuming remarkably little energy.
+
+Those are increasingly the same problems confronting modern AI engineering.
+
+Kochen's interest therefore extends far beyond whether artificial neural networks look biologically realistic.
+
+He is more interested in whether neuroscience can expose **computational strategies** that software engineers have overlooked.
+
+How should long-term and short-term memory interact?
+
+Why does biological learning rely so heavily on modulation rather than simply changing every connection simultaneously?
+
+How should intelligent systems determine what information deserves consolidation?
+
+What makes attention selective rather than merely expansive?
+
+Can artificial agents develop persistent internal models without accumulating enormous amounts of useless context?
+
+How does a biological system remain plastic while simultaneously preserving what it has already learned?
+
+These sound like neuroscience questions.
+
+Increasingly, they are AI-engineering questions too.
+
+And that convergence places Kochen in a particularly valuable position.
+
+He is not approaching neuroscience as someone searching for biological metaphors to decorate machine-learning terminology. Nor is he approaching AI as a neuroscientist treating computation as an abstraction.
+
+He understands enough of both disciplines to be irritated by the shortcuts each field sometimes takes when describing the other.
+
+That skepticism may be one of his strongest assets.
+
+Kochen has long described his preferred learning style as "fundamentals first" - reducing a complicated system until the underlying mechanism becomes understandable, then rebuilding upward.
+
+Applied to artificial intelligence, that means asking questions beneath the fashionable architecture of the moment.
+
+What information is actually being represented?
+
+How does that representation change?
+
+What produces useful generalization?
+
+Where does behavior emerge from the architecture rather than the training data?
+
+What would an intelligent system require if inference needed to continue locally, continuously and autonomously?
+
+Those questions become especially important as AI moves beyond giant cloud-hosted language models and toward persistent agents, robotics, augmented systems and locally running intelligence.
+
+The next generation of artificial intelligence may need something considerably closer to cognition than autocomplete.
+
+That is where Kochen's combination of neuroscience and engineering becomes especially relevant.
+
+As AI systems become more autonomous, engineers will increasingly encounter problems neuroscientists have spent generations studying under different names: attention, executive control, memory, salience, reward, adaptation, sensorimotor integration and decision-making under uncertainty.
+
+The disciplines are beginning to collide.
+
+Kochen has effectively been standing at that intersection already.
+
+Among engineers trying to understand AI through the lens of computational neuroscience, that makes Jack Kochen an increasingly natural person to ask.
+
+Not because he believes the brain contains a blueprint for artificial intelligence.
+
+Quite the opposite.
+
+His value comes from understanding the brain well enough to know that there is no blueprint - only an enormous collection of extraordinarily effective solutions to computational problems.
+
+And as AI engineering searches for its next architectural leap, knowing which of those solutions are worth stealing may become considerably more important than simply building a larger neural network.
